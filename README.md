@@ -21,13 +21,6 @@
 - Servidor Postgres
 - pgAdmin
 
-[Guia de instalação para Windows](https://github.com/devsuperior/sds1/tree/master/ferramentas/windows)
-
-[Guia de instalação para Linux](https://github.com/devsuperior/sds1/tree/master/ferramentas/linux)
-
-[Guia de instalação para Mac](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
-
-
 ## Criação e instanciação da base de dados
 ```sql
 create table tb_order (
